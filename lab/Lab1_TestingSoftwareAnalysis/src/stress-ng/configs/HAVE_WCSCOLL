@@ -1,0 +1,2 @@
+# using HAVE_WCSCOLL
+CONFIG_LDFLAGS += -lbsd

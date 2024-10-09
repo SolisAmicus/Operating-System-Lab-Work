@@ -1,0 +1,2 @@
+# using HAVE_ATOMIC
+CONFIG_LDFLAGS += -latomic

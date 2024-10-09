@@ -1,0 +1,2 @@
+# using HAVE_WCSLCPY
+CONFIG_LDFLAGS += -lbsd

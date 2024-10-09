@@ -1,0 +1,2 @@
+# using HAVE_WCSCASECMP
+CONFIG_LDFLAGS += -lbsd

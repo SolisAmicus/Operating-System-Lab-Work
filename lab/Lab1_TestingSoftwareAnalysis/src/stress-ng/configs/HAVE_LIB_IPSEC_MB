@@ -1,0 +1,2 @@
+# using HAVE_LIB_IPSEC_MB
+CONFIG_LDFLAGS += -lIPSec_MB

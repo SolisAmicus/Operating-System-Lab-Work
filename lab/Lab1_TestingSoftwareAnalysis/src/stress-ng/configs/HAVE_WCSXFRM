@@ -1,0 +1,2 @@
+# using HAVE_WCSXFRM
+CONFIG_LDFLAGS += -lbsd

@@ -1,0 +1,2 @@
+# using HAVE_LIB_SCTP
+CONFIG_LDFLAGS += -lsctp

@@ -1,0 +1,2 @@
+# using HAVE_LIB_EGL
+CONFIG_LDFLAGS += -lEGL

@@ -1,0 +1,2 @@
+# using HAVE_LIB_DL
+CONFIG_LDFLAGS += -ldl

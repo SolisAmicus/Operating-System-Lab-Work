@@ -1,0 +1,3 @@
+# using HAVE_AIO_FSYNC
+CONFIG_LDFLAGS += -laio
+CONFIG_LDFLAGS += -lrt

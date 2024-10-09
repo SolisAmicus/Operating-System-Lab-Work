@@ -1,0 +1,11 @@
+stress-ng: info:  [111366] setting to a 1 min run per stressor
+stress-ng: info:  [111366] dispatching hogs: 4 iomix
+stress-ng: info:  [111366] note: /proc/sys/kernel/sched_autogroup_enabled is 1 and this can impact scheduling throughput for processes not attached to a tty. Setting this to 0 may improve performance metrics
+stress-ng: metrc: [111366] stressor       bogo ops real time  usr time  sys time   bogo ops/s     bogo ops/s CPU used per       RSS Max
+stress-ng: metrc: [111366]                           (secs)    (secs)    (secs)   (real time) (usr+sys time) instance (%)          (KB)
+stress-ng: metrc: [111366] iomix            116028     60.25      4.04     73.88      1925.86        1489.12        32.33          3064
+stress-ng: info:  [111366] skipped: 0
+stress-ng: info:  [111366] passed: 4: iomix (4)
+stress-ng: info:  [111366] failed: 0
+stress-ng: info:  [111366] metrics untrustworthy: 0
+stress-ng: info:  [111366] successful run completed in 1 min

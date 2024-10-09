@@ -1,0 +1,2 @@
+# using HAVE_PTHREAD_ATTR_SETSTACK
+CONFIG_LDFLAGS += -lpthread

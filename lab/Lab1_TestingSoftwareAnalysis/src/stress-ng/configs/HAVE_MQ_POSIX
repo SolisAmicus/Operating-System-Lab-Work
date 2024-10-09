@@ -1,0 +1,2 @@
+# using HAVE_MQ_POSIX
+CONFIG_LDFLAGS += -lrt

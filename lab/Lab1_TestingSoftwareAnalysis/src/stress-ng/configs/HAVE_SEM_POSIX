@@ -1,0 +1,2 @@
+# using HAVE_SEM_POSIX
+CONFIG_LDFLAGS += -lpthread

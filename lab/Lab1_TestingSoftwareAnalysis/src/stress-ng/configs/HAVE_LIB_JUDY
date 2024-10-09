@@ -1,0 +1,2 @@
+# using HAVE_LIB_JUDY
+CONFIG_LDFLAGS += -lJudy

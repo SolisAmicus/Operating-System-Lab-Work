@@ -1,0 +1,2 @@
+# using HAVE_TIMER_CREATE
+CONFIG_LDFLAGS += -lrt

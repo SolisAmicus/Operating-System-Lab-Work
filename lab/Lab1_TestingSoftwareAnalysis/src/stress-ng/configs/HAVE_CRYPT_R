@@ -1,0 +1,2 @@
+# using HAVE_CRYPT_R
+CONFIG_LDFLAGS += -lcrypt

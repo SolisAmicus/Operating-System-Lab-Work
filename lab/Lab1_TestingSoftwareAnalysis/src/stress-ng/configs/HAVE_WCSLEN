@@ -1,0 +1,2 @@
+# using HAVE_WCSLEN
+CONFIG_LDFLAGS += -lbsd

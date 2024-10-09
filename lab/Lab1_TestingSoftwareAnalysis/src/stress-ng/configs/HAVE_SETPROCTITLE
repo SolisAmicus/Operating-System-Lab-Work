@@ -1,0 +1,2 @@
+# using HAVE_SETPROCTITLE
+CONFIG_LDFLAGS += -lbsd

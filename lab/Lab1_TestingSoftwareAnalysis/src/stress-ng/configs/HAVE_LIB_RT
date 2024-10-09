@@ -1,0 +1,2 @@
+# using HAVE_LIB_RT
+CONFIG_LDFLAGS += -lrt

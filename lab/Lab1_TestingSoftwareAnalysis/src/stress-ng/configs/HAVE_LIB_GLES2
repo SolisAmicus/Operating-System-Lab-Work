@@ -1,0 +1,2 @@
+# using HAVE_LIB_GLES2
+CONFIG_LDFLAGS += -lGLESv2

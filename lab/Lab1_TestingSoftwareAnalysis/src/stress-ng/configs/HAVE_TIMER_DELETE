@@ -1,0 +1,2 @@
+# using HAVE_TIMER_DELETE
+CONFIG_LDFLAGS += -lrt

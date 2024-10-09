@@ -1,0 +1,2 @@
+# using HAVE_WCSLCAT
+CONFIG_LDFLAGS += -lbsd
