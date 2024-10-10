@@ -3,7 +3,7 @@
 ## 目录
 
 - [x] [实验1：Linux操作系统测试软件分析与研发](./lab/Lab1_TestingSoftwareAnalysis)
-- [ ] [实验2：基于Shell的Linux内核源码文件分析程序的设计与实现](./lab/Lab2_ShellKernelAnalysis)
+- [x] [实验2：基于Shell的Linux内核源码文件分析程序的设计与实现](./lab/Lab2_ShellKernelAnalysis)
 - [ ] [实验3：Linux系统调用设计与添加实现](./lab/Lab3_SystemCallDesign)
 - [ ] [实验4：Linux进程控制操作应用编程](./lab/Lab4_ProcessControlProgramming)
 - [ ] [实验5：基于Linux的类EXT文件系统的克隆实现](./lab/Lab5_EXTFilesystemClone)
@@ -33,6 +33,11 @@ Operating-System-Lab-Work/
 │   │   ├── src/
 │   │   ├── docs/
 │   │   ├── log/
+│   │   ├── README.md
+│   ├── Lab2_ShellKernelAnalysis/
+│   │   ├── src/
+│   │   ├── docs/
+│   │   ├── results/
 │   │   ├── README.md
 ```
 
