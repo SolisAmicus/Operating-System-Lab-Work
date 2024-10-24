@@ -5,7 +5,7 @@
 - [x] [实验1：Linux操作系统测试软件分析与研发](./lab/Lab1_TestingSoftwareAnalysis)
 - [x] [实验2：基于Shell的Linux内核源码文件分析程序的设计与实现](./lab/Lab2_ShellKernelAnalysis)
 - [x] [实验3：Linux系统调用设计与添加实现](./lab/Lab3_SystemCallDesign)
-- [ ] [实验4：Linux进程控制操作应用编程](./lab/Lab4_ProcessControlProgramming)
+- [x] [实验4：Linux进程控制操作应用编程](./lab/Lab4_ProcessControlProgramming)
 - [ ] [实验5：基于Linux的类EXT文件系统的克隆实现](./lab/Lab5_EXTFilesystemClone)
 - [ ] [实验6：Linux设备驱动程序设计与实现](./lab/Lab6_DeviceDriverDevelopment)
 - [ ] [实验7：基于LoongArch/Arm/x86架构的简单操作系统的设计与实现](./lab/Lab7_SimpleOSDesign)
@@ -43,6 +43,10 @@ Operating-System-Lab-Work/
 │   │   ├── src/
 │   │   ├── docs/
 │   │   ├── test/
+│   │   ├── README.md
+│   ├── Lab4_ProcessControlProgramming/
+│   │   ├── src/
+│   │   ├── docs/
 │   │   ├── README.md
 ```
 
