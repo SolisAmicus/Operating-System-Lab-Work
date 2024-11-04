@@ -7,7 +7,7 @@
 - [x] [实验3：Linux系统调用设计与添加实现](./lab/Lab3_SystemCallDesign)
 - [x] [实验4：Linux进程控制操作应用编程](./lab/Lab4_ProcessControlProgramming)
 - [x] [实验5：基于Linux的类EXT文件系统的克隆实现](./lab/Lab5_EXTFilesystemClone)
-- [ ] [实验6：Linux设备驱动程序设计与实现](./lab/Lab6_DeviceDriverDevelopment)
+- [x] [实验6：Linux设备驱动程序设计与实现](./lab/Lab6_DeviceDriverDevelopment)
 - [ ] [实验7：基于LoongArch/Arm/x86架构的简单操作系统的设计与实现](./lab/Lab7_SimpleOSDesign)
 - [ ] [文献研读报告](./lab/PaperReadingReport)
 
@@ -49,6 +49,10 @@ Operating-System-Lab-Work/
 │   │   ├── docs/
 │   │   ├── README.md
 │   ├── Lab5_EXTFilesystemClone/
+│   │   ├── src/
+│   │   ├── docs/
+│   │   ├── README.md
+│   ├── Lab6_DeviceDriverDevelopment/
 │   │   ├── src/
 │   │   ├── docs/
 │   │   ├── README.md
