@@ -9,7 +9,7 @@
 - [x] [实验5：基于Linux的类EXT文件系统的克隆实现](./lab/Lab5_EXTFilesystemClone)
 - [x] [实验6：Linux设备驱动程序设计与实现](./lab/Lab6_DeviceDriverDevelopment)
 - [ ] [实验7：基于LoongArch/Arm/x86架构的简单操作系统的设计与实现](./lab/Lab7_SimpleOSDesign)
-- [ ] [文献研读报告](./lab/PaperReadingReport)
+- [x] [文献研读报告](./lab/PaperReadingReport)
 
 ## 使用方法
 
@@ -56,6 +56,7 @@ Operating-System-Lab-Work/
 │   │   ├── src/
 │   │   ├── docs/
 │   │   ├── README.md
+│   ├── PaperReadingReport/
 ```
 
 ## 作者
